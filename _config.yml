@@ -1,9 +1,9 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Meiporul'
+description: 'MEIPORUL IS A STARTUP WITH THE MISSION TO MAKE TECHNOLOGY FOR GOOD - MAKE TECHNOLOGIES MORE BENEVOLENT AND USE THEM FOR GOOD CAUSES.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: 'http://meiporul.github.io'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
