@@ -3,9 +3,9 @@ name: 'Meiporul'
 description: 'MEIPORUL IS A STARTUP WITH THE MISSION TO MAKE TECHNOLOGY FOR GOOD - MAKE TECHNOLOGIES MORE BENEVOLENT AND USE THEM FOR GOOD CAUSES.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'http://meiporul.github.io'
+baseurl: 'https://meiporul.github.io'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'r.arunkishore@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -18,7 +18,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-authors:
+team:
     sal:
       name:           Sal
       site:           https://www.wowthemes.net
